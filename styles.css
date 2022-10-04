@@ -1,3 +1,37 @@
 h1 {
-    color: firebrick;
+    color: rgb(235, 199, 42);
+    font-size: 3em;
+    text-align: center;
+}
+body {
+    background-image: url('assets/img/kendrickytravis.jpg')
+}
+
+table{
+    color: rgb(255, 255, 255);
+    width: 100%;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+hr {
+    color: rgb(0, 0, 0);
+}
+th{
+   font-size: 1.1em;
+}
+td{
+    font-size: 1.3em; /*tamaño de fuente*/
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(255, 255, 255);
+}
+footer{
+    background-color: black;
+    text-align: center;
 }
