@@ -3,6 +3,9 @@ h1 {
     font-size: 3em;
     text-align: center;
 }
+header{
+    background-color: rgba(0, 0, 0, 0.400);
+}
 body {
     background-image: url('assets/img/kendrickytravis.jpg')
 }
@@ -12,9 +15,7 @@ table{
     width: 100%;
     border: 3px solid black;
     border-collapse: collapse;
-}
-hr {
-    color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.300);
 }
 th{
    font-size: 1.1em;
@@ -30,8 +31,58 @@ a{
 }
 p{
     color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1.3em;
 }
 footer{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.400);
     text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+
+
+
+
+
+.titulos{
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    text-align: center;
+}
+.fondo_letras{
+    background-color: rgba(0, 0, 0, 0.300);
+}
+#color_allmine{
+    background:rgba(95, 143, 231, 0.568) ;
+
+}
+#color_antidote{
+    background: rgba(189, 138, 72, 0.795);
+}
+#color_canape{
+    background: rgb(177, 36, 26);
+}
+#color_driptoohard{
+    background: rgba(255, 227, 192, 0.795)
+}
+#color_forthenight{
+    background: rgb(46, 44, 44);
+}
+#color_getmoney{
+    background: rgb(80, 13, 13);
+}
+#color_starlight{
+    background: rgb(105, 233, 255);
+}
+#color_tododeoro{
+    background: goldenrod;
+}
+#color_toothpick{
+    background: rgb(119, 100, 75);
+}
+#color_undertheinfluence{
+    background: grey;
 }

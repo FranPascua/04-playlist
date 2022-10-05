@@ -815,10 +815,7 @@ I'm like a mummy at night, fightin' with bright lightning
 Frightened with five little white Vicadin pills bitin' him
 I'm like a fuckin' wasp in the hospital lost
 Stingin' the fuck outta everything I come across in the halls
-I light a candle and place it up on the mantle
-Grab a knife at the blade and stab you with the fuckin' handle
-So when you find yourself wrapped up in the blinds, hurtin'
-(Bitch, it's too late)
+I light a candle and place it up on the mantlergba(189, 138, 72, 0.473)
 'Cause once you're hung from the drapes, it's curtains
 
 I'm an instigator, .380 slug penetrator
